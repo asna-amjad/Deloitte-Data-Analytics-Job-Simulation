@@ -56,7 +56,7 @@ The Unhealthy metric was created as a calculated field to represent 10-minute in
 
 **Live Dashboard Link**:  
 [View on Tableau Public](https://public.tableau.com/shared/6NHS8J76T?:display_count=n&:origin=viz_share_link)
-![alt text](https://github.com/asna-amjad/Marketing-Department-Project/blob/c3b30df3f0886bd487db8d4739e1feec0f504d82/Marketing_Dept_Project_Png/graph1.png)
+![alt text](Daikibo_Telemetry_Dashboard.png)
 
 ### 2. Equality Score Classification
 
